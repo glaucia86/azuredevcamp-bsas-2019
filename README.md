@@ -22,3 +22,7 @@ Configure el CI/CD en pasos sencillos con DevOps Project
 
 - **[Empezando con los contenedores](02-proyecte-su-jornada-de-modernizacion-de-aplicaciones-con-contenedores-en-microsoft-azure.md)**
 
+## Dudas?! ❓
+
+Si tienes alguna duda sobre el código desarrollado o para configurar el ambiente, basta con crear una ** [ISSUE] (https://github.com/glaucia86/azuredevcamp-bsas-2019/issues) ** en GitHub que te contestaré ASAP. ! : heart:: heart:: heart:: blush:
+
