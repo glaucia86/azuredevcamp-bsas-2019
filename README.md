@@ -20,5 +20,5 @@ Durante el evento se realizaron dos demos, que tenía como principal objetivo us
 Configure el CI/CD en pasos sencillos con DevOps Project
 ](presentacion-1/01-fundamentos-de-Kubernetes-en-microsoft-azure.md)**
 
-- **[Empezando con los contenedores 
-](02-proyecte-su-jornada-de-modernizacion -de-aplicaciones-con-contenedores-en microsoft-azure.md)**
+- **[Empezando con los contenedores](02-proyecte-su-jornada-de-modernizacion-de-aplicaciones-con-contenedores-en-microsoft-azure.md)**
+
