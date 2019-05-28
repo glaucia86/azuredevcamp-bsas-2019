@@ -1,5 +1,7 @@
 # Azure Dev Camp @ BsAs 2019
 
+[![Screen-Shot-05-28-19-at-03-40-PM.png](https://i.postimg.cc/Y9gKL8S0/Screen-Shot-05-28-19-at-03-40-PM.png)](https://postimg.cc/njHw64Bf)
+
 Repositorio responsable de las demos y presentaciones del evento: **[Azure Dev Camp @ BsAs 2019](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x6713670abcd)**
 
 ## Recursos Utilizados 🚀
@@ -20,6 +22,3 @@ Configure el CI/CD en pasos sencillos con DevOps Project
 
 - **[Empezando con los contenedores 
 ](02-proyecte-su-jornada-de-modernizacion -de-aplicaciones-con-contenedores-en microsoft-azure.md)**
-
-
-(lab-1/01-introducao-azure.md)
