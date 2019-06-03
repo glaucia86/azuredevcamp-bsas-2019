@@ -6,10 +6,10 @@ Repositorio responsable de las demos y presentaciones del evento: **[Azure Dev C
 
 ## Recursos Utilizados 🚀
 
-- **[Azure Registry](https://aka.ms/AA56dv1)**
-- **[Azure](https://aka.ms/AA56dv0)**
-- **[AKS](https://aka.ms/AA568ft)**
-- **[Azure DevOps](https://aka.ms/AA568fu)**
+- **[Azure Registry](https://aka.ms/AA59adm)**
+- **[Azure](https://aka.ms/AA59idh)**
+- **[AKS](https://aka.ms/AA59idl)**
+- **[Azure DevOps](https://aka.ms/AA59ady)**
 - **[Node.js](https://nodejs.org/en/)**
 
 ## Demos 💻
@@ -28,14 +28,14 @@ Durante la plática yo hablé de algunos recursos muy importantes que pueden aux
 
 - **[Cursos de Contenedores en Microsoft Learn](https://aka.ms/cursos-gratis-contenedores 
 )**
-- **[Azure Container Registry](https://aka.ms/AA56qxx)**
-- **[Azure DevOps](https://aka.ms/AA56dw7)**
-- **[AKS](https://aka.ms/AA568gn)**
-- **[Tutorial: Preparación de una aplicación para Azure Kubernetes Service (AKS)](https://aka.ms/AA56dwf)**
+- **[Azure Registry](https://aka.ms/AA59adm)**
+- **[Azure DevOps](https://aka.ms/AA59ady)**
+- **[AKS](https://aka.ms/AA59idl)**
+- **[Tutorial: Preparación de una aplicación para Azure Kubernetes Service (AKS)](https://aka.ms/AA59ae3)**
 - **[Azure Service Fabric](https://aka.ms/AA56jfd)**
-- **[Tutorial: Creación e implementación de una aplicación con un servicio de front-end de ASP.NET Core Web API y un servicio back-end con estado](https://aka.ms/AA568h1)**
-- **[Tutorial: Creación de una aplicación con un servicio front-end de Java Web API y un servicio back-end con estado en Service Fabric](https://aka.ms/AA568h3)**
-- **[Microsoft Learn](https://aka.ms/AA568h6)**
+- **[Tutorial: Creación e implementación de una aplicación con un servicio de front-end de ASP.NET Core Web API y un servicio back-end con estado](https://aka.ms/AA59ae5)**
+- **[Tutorial: Creación de una aplicación con un servicio front-end de Java Web API y un servicio back-end con estado en Service Fabric](https://aka.ms/AA59ae6)**
+- **[Microsoft Learn](https://aka.ms/AA59idr)**
 
 ## Dudas?! ❓
 
